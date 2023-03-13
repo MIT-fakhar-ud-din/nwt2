@@ -1,0 +1,40 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate",
+    "Graduate",
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-website-test-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-website-test-2"
+  },
+  "course_title": "Title test again",
+  "course_description": "abc",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-website-test-2"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "e57ee09a-1c06-4bb4-955a-76a1956b03cd",
+  "site_short_id": "nwt2"
+}
